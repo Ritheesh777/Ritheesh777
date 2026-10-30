@@ -6,7 +6,7 @@
 
 <img src="assets/h-about.svg" width="100%" alt="About Me"/>
 
-<img src="assets/about.svg" width="100%" alt="Product Developer at Vulcan Learning Collective LLP. B.E. Information Science, PES ITM (2022-2026); Top 6 Manthan 2024, Top 10 Manthan 2025; Backend Developer Intern then Product Developer at Vulcan Learning Collective LLP. Based in Shivamogga, India. Open to AI and full-stack engineering roles."/>
+<img src="assets/about.svg?v=2" width="100%" alt="Product Developer at Vulcan Learning Collective LLP. B.E. Information Science, PES ITM (2022-2026); Top 6 Manthan 2024, Top 10 Manthan 2025; Backend Developer Intern then Product Developer at Vulcan Learning Collective LLP. Based in Shivamogga, India. Open to AI and full-stack engineering roles."/>
 
 <br/><br/>
 
