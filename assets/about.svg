@@ -33,7 +33,7 @@
   <animate attributeName="cx" values="119;469;382;119" dur="9s" repeatCount="indefinite"/>
   <animate attributeName="cy" values="120;166;378;120" dur="9s" repeatCount="indefinite"/></circle></g>
 <rect x="2" y="2" width="584" height="470" rx="24" fill="none" stroke="url(#ab0)" stroke-width="2"/>
-<rect x="34" y="34" width="132" height="34" rx="17" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".4"/>
+<rect x="34" y="34" width="150" height="34" rx="17" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".4"/>
 <circle cx="54" cy="51" r="5" fill="#3fb950"><animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
 <text x="68" y="57" font-family="'Fraunces',Georgia,serif" font-size="17" fill="#c4b5fd">My Journey</text>
 <text x="34" y="128" font-family="'Fraunces',Georgia,serif" font-size="40" font-weight="700" fill="#f0f6fc">Hi, I'm <tspan fill="url(#aname)">Ritheesh.</tspan></text>
